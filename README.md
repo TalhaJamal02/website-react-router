@@ -1,8 +1,3 @@
-# React + Vite
+# Website Built with React.js and React Router
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is a **React-Router** based website that focuses on implementing core logic and **routing** functionalities. **React Router** is used to manage navigation across different pages, providing a smooth, dynamic user experience. The main goal of this project is to demonstrate the use of **logic handling** and routing within React applications.
